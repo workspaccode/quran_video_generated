@@ -1,0 +1,5 @@
+{
+  "name": "NoorClips - Quran Video Generator",
+  "description": "A specialized AI tool to generate high-quality visual backgrounds and metadata for Quranic YouTube Shorts using Google Veo and Gemini.",
+  "requestFramePermissions": []
+}
